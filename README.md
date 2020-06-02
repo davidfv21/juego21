@@ -1,2 +1,1 @@
-# juego21
-# intento juego 21 
+# juego21 solu pequeño error
